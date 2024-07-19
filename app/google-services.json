@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383675971725",
+    "project_id": "projectmedtrx-52121",
+    "storage_bucket": "projectmedtrx-52121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383675971725:android:da9452d933a94cecb0cac4",
+        "android_client_info": {
+          "package_name": "com.example.medtrx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApxKUhqED8FVgzgaFJAVvkwUYxgTVm0B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
